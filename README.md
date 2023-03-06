@@ -4,4 +4,4 @@
 - Sửa công việc hằng ngày.
 - Xóa bất kì công việc nào đã thêm.
 # Hình ảnh 
-![App Screenshot](resources/img/123.png)
+![App Screenshot](/resources/img/123.png)
